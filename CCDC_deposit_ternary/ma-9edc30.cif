@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Na2I2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14532761
+_cell_length_b   4.21701906
+_cell_length_c   6.91307910
+_cell_angle_alpha   119.40791920
+_cell_angle_beta   79.25781247
+_cell_angle_gamma   92.49816830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2I2O5
+_chemical_formula_sum   'Na2 I2 O5'
+_cell_volume   153.09208198
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.48328422  0.00527913  0.53444452  1
+  Na  Na1  1  -0.02420779  0.54915338  0.51485602  1
+  I  I2  1  0.44799950  -0.00589405  0.00753265  1
+  I  I3  1  -0.07033186  0.45774710  -0.00395990  1
+  O  O4  1  -0.28413997  0.03407970  0.80146508  1
+  O  O5  1  0.33978474  0.65186834  0.74474385  1
+  O  O6  1  0.73356927  0.51958935  0.25960954  1
+  O  O7  1  0.10247224  -0.05855698  0.21776175  1
+  O  O8  1  0.14656965  -0.02826596  0.42354649  1

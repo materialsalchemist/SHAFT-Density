@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaLiBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33928230
+_cell_length_b   13.03124025
+_cell_length_c   3.73201161
+_cell_angle_alpha   89.99217202
+_cell_angle_beta   90.00000338
+_cell_angle_gamma   90.00001719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiBr
+_chemical_formula_sum   'Na4 Li4 Br4'
+_cell_volume   356.92940381
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24999997  0.73791130  0.14534181  1
+  Na  Na1  1  0.75000000  0.26208619  0.14553124  1
+  Na  Na2  1  0.24999997  0.23791071  0.64534827  1
+  Na  Na3  1  0.75000002  0.76208677  0.64553779  1
+  Li  Li4  1  -0.00001034  0.49998113  0.64526725  1
+  Li  Li5  1  0.50001030  0.49998113  0.64526299  1
+  Li  Li6  1  -0.00001034  -0.00001887  0.14527334  1
+  Li  Li7  1  0.50001035  -0.00001888  0.14527148  1
+  Br  Br8  1  0.75000010  0.00875690  0.64567397  1
+  Br  Br9  1  0.75000006  0.50875561  0.14566057  1
+  Br  Br10  1  0.24999994  0.49128464  0.14569832  1
+  Br  Br11  1  0.24999997  0.99128337  0.64571177  1

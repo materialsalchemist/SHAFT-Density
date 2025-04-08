@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.56469037
+_cell_length_b   6.50777487
+_cell_length_c   11.55566846
+_cell_angle_alpha   89.62342741
+_cell_angle_beta   119.62297076
+_cell_angle_gamma   115.40922857
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiBr
+_chemical_formula_sum   'Li9 Br9'
+_cell_volume   431.11436959
+_cell_formula_units_Z   9
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66542243  -0.03784777  0.97254659  1
+  Li  Li1  1  0.33642077  0.29765675  0.64079361  1
+  Li  Li2  1  -0.00122078  0.62884750  0.63920022  1
+  Li  Li3  1  0.66983812  -0.03567467  0.30748469  1
+  Li  Li4  1  0.33220346  0.29553838  0.30586347  1
+  Li  Li5  1  0.00170574  0.62967575  0.30677418  1
+  Li  Li6  1  0.00308181  0.63096753  0.97412272  1
+  Li  Li7  1  0.66828324  -0.03699054  0.64014042  1
+  Li  Li8  1  0.33496867  0.29633965  0.97345821  1
+  Br  Br9  1  0.66744275  0.70454002  0.80767534  1
+  Br  Br10  1  0.66367966  0.70261806  0.47287462  1
+  Br  Br11  1  0.00080930  0.37124497  0.47432321  1
+  Br  Br12  1  -0.00296062  0.36921972  0.13951573  1
+  Br  Br13  1  0.33416801  0.03784359  0.14099712  1
+  Br  Br14  1  0.66529123  0.70333274  0.14025301  1
+  Br  Br15  1  0.33033312  0.03592819  0.80618025  1
+  Br  Br16  1  0.33194490  0.03672784  0.47355880  1
+  Br  Br17  1  -0.00141181  0.37003228  0.80688951  1

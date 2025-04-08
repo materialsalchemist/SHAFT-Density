@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NaNCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44766937
+_cell_length_b   5.18120893
+_cell_length_c   8.08780517
+_cell_angle_alpha   92.16459924
+_cell_angle_beta   88.70260242
+_cell_angle_gamma   94.21752006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNCl6
+_chemical_formula_sum   'Na1 N1 Cl6'
+_cell_volume   227.45662185
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.57283581  0.74224781  0.26540410  1
+  N  N1  1  -0.13136433  -0.25375858  0.03363833  1
+  Cl  Cl2  1  0.43944987  0.22655471  0.24108316  1
+  Cl  Cl3  1  0.11346337  0.53630405  0.41196913  1
+  Cl  Cl4  1  0.53878545  0.16414804  0.65868462  1
+  Cl  Cl5  1  0.49692744  0.18593915  0.91658738  1
+  Cl  Cl6  1  -0.10757516  0.80116449  0.53240031  1
+  Cl  Cl7  1  0.07747754  -0.40259967  -0.05976702  1

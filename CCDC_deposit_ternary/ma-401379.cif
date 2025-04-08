@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Li5BrCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.08881688
+_cell_length_b   9.94327425
+_cell_length_c   7.31699957
+_cell_angle_alpha   84.26521955
+_cell_angle_beta   94.71432421
+_cell_angle_gamma   85.31088255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5BrCl8
+_chemical_formula_sum   'Li10 Br2 Cl16'
+_cell_volume   724.86523990
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.07792682  -0.06387402  -0.07180884  1
+  Li  Li1  1  0.41118841  0.59622849  0.07727002  1
+  Li  Li2  1  0.45685784  0.91515315  0.49263627  1
+  Li  Li3  1  0.62076647  0.16060624  0.58553999  1
+  Li  Li4  1  0.31812779  0.18645189  -0.11347846  1
+  Li  Li5  1  0.13424499  0.53569596  -0.03489424  1
+  Li  Li6  1  0.70072922  0.38840146  0.03452798  1
+  Li  Li7  1  0.77773573  0.76922469  -0.14782613  1
+  Li  Li8  1  0.86879471  0.91976799  0.39246163  1
+  Li  Li9  1  0.17270370  0.17022238  0.38698725  1
+  Br  Br10  1  0.47805208  0.64602749  0.63716823  1
+  Br  Br11  1  0.04136564  0.01615792  0.58207385  1
+  Cl  Cl12  1  0.86792638  0.37505952  0.31357025  1
+  Cl  Cl13  1  0.07927386  0.41602730  0.28762504  1
+  Cl  Cl14  1  -0.04919186  0.60961149  0.73011906  1
+  Cl  Cl15  1  -0.14163691  0.40764324  0.78117946  1
+  Cl  Cl16  1  0.33637062  0.39866075  0.97803082  1
+  Cl  Cl17  1  0.17195645  0.09915145  0.09162846  1
+  Cl  Cl18  1  0.34951365  0.69617146  0.36161998  1
+  Cl  Cl19  1  0.22594612  0.74191109  0.96820892  1
+  Cl  Cl20  1  0.75700691  0.21052160  0.85295413  1
+  Cl  Cl21  1  0.63749450  0.32991611  0.33557995  1
+  Cl  Cl22  1  0.62004852  0.61917844  0.96300796  1
+  Cl  Cl23  1  0.90681224  0.84280928  0.10256144  1
+  Cl  Cl24  1  0.38417274  0.13263430  0.59083084  1
+  Cl  Cl25  1  0.68963872  0.92339883  0.58660022  1
+  Cl  Cl26  1  0.45084566  0.00989220  0.12840049  1
+  Cl  Cl27  1  0.65532904  -0.05265070  0.10742542  1

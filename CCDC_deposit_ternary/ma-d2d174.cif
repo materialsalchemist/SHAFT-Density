@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li6SiI2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27250679
+_cell_length_b   7.27414655
+_cell_length_c   3.71673060
+_cell_angle_alpha   89.99874889
+_cell_angle_beta   90.00278113
+_cell_angle_gamma   119.99483321
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6SiI2
+_chemical_formula_sum   'Li6 Si1 I2'
+_cell_volume   170.28661180
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00052507  0.30743158  0.24521129  1
+  Li  Li1  1  0.69325781  0.00054715  0.24341255  1
+  Li  Li2  1  0.69270897  0.69326345  0.24432740  1
+  Li  Li3  1  0.99948719  0.69255888  0.24516929  1
+  Li  Li4  1  0.30670296  0.99945223  0.24323846  1
+  Li  Li5  1  0.30730570  0.30674166  0.24420199  1
+  Si  Si6  1  0.00000514  0.00000156  0.71631361  1
+  I  I7  1  0.66677758  0.33346851  0.96246470  1
+  I  I8  1  0.33322959  0.66653497  0.96246429  1

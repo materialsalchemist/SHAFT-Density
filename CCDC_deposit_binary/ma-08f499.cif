@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Na2O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72751615
+_cell_length_b   4.81899158
+_cell_length_c   4.82223922
+_cell_angle_alpha   89.81043311
+_cell_angle_beta   89.85268834
+_cell_angle_gamma   90.15931169
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2O2
+_chemical_formula_sum   'Na4 O4'
+_cell_volume   109.85818951
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75146728  0.00000374  0.02711036  1
+  Na  Na1  1  0.25142974  0.49999897  0.02708713  1
+  Na  Na2  1  0.24853293  -0.00000980  0.52709388  1
+  Na  Na3  1  0.74856437  0.49999754  0.52711478  1
+  O  O4  1  0.24842537  0.50001954  0.52701551  1
+  O  O5  1  0.74835853  -0.00001934  0.52704018  1
+  O  O6  1  0.75157340  0.49997871  0.02703356  1
+  O  O7  1  0.25164838  0.00003063  0.02701204  1

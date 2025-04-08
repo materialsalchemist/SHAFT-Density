@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaSi2Cl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.68285226
+_cell_length_b   9.24117062
+_cell_length_c   8.08098984
+_cell_angle_alpha   90.45170494
+_cell_angle_beta   92.08616962
+_cell_angle_gamma   88.73847381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSi2Cl3
+_chemical_formula_sum   'Na4 Si8 Cl12'
+_cell_volume   722.42160317
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.03008229  0.33763396  0.51665949  1
+  Na  Na1  1  0.03840082  0.64171297  -0.00756213  1
+  Na  Na2  1  0.35242317  0.01867272  0.61957027  1
+  Na  Na3  1  0.62638762  -0.01894558  0.14038209  1
+  Si  Si4  1  0.59060819  0.33158443  0.37839180  1
+  Si  Si5  1  0.40828415  0.68926335  0.89269557  1
+  Si  Si6  1  0.31474615  0.53563933  0.66958709  1
+  Si  Si7  1  0.71332239  0.52851199  0.19365356  1
+  Si  Si8  1  0.42695856  0.39730552  0.87529552  1
+  Si  Si9  1  0.47059953  0.53299665  0.12100079  1
+  Si  Si10  1  0.57048167  0.61117193  0.39886764  1
+  Si  Si11  1  0.56602576  0.46363095  0.63337738  1
+  Cl  Cl12  1  0.41739618  0.19605838  0.31972441  1
+  Cl  Cl13  1  -0.17617174  0.75831562  0.14454332  1
+  Cl  Cl14  1  0.57357916  -0.17662792  -0.17695680  1
+  Cl  Cl15  1  0.11646654  0.13762564  0.65236745  1
+  Cl  Cl16  1  0.08918614  0.59137564  0.66247983  1
+  Cl  Cl17  1  0.74359641  0.15708668  0.41032526  1
+  Cl  Cl18  1  -0.08361766  0.41554054  0.18115622  1
+  Cl  Cl19  1  0.25552918  -0.14771429  -0.05764350  1
+  Cl  Cl20  1  0.48976883  0.17138786  0.87506915  1
+  Cl  Cl21  1  0.24713259  0.53434745  0.19979652  1
+  Cl  Cl22  1  0.50161094  0.83809212  0.40121411  1
+  Cl  Cl23  1  0.77736772  0.45533406  0.73802131  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li7(I2Br)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.18653396
+_cell_length_b   8.18713936
+_cell_length_c   12.69173767
+_cell_angle_alpha   89.99975725
+_cell_angle_beta   89.99975303
+_cell_angle_gamma   89.99998898
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7(I2Br)2
+_chemical_formula_sum   'Li14 I8 Br4'
+_cell_volume   850.65476302
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000233  0.50000197  0.84829991  1
+  Li  Li1  1  0.00000212  0.00000178  0.34829809  1
+  Li  Li2  1  0.00000042  0.00000033  0.95705665  1
+  Li  Li3  1  0.49999062  0.49999169  0.08207908  1
+  Li  Li4  1  0.69396886  0.00000031  0.79875181  1
+  Li  Li5  1  0.00000039  0.69399942  0.79877399  1
+  Li  Li6  1  0.00000036  0.30599675  0.79876687  1
+  Li  Li7  1  0.30602416  0.00000026  0.79874225  1
+  Li  Li8  1  0.50000052  0.50000051  0.45705622  1
+  Li  Li9  1  -0.00000839  -0.00000661  0.58208044  1
+  Li  Li10  1  0.19396608  0.50000028  0.29874681  1
+  Li  Li11  1  0.50000030  0.19397238  0.29875301  1
+  Li  Li12  1  0.80602868  0.50000018  0.29873811  1
+  Li  Li13  1  0.50000020  0.80602055  0.29874383  1
+  I  I14  1  0.74193100  0.74192366  0.93010035  1
+  I  I15  1  0.74193164  0.25807985  0.93009766  1
+  I  I16  1  0.25807344  0.74192456  0.93009692  1
+  I  I17  1  0.25807257  0.25807871  0.93009426  1
+  I  I18  1  0.24192392  0.24192371  0.43010477  1
+  I  I19  1  0.24192473  0.75808024  0.43010149  1
+  I  I20  1  0.75808019  0.24192442  0.43010141  1
+  I  I21  1  0.75807878  0.75807893  0.43009823  1
+  Br  Br22  1  0.50000537  -0.00000167  0.66147606  1
+  Br  Br23  1  -0.00000197  0.50000484  0.66144129  1
+  Br  Br24  1  0.00000575  0.49999818  0.16148197  1
+  Br  Br25  1  0.49999796  0.00000476  0.16147548  1

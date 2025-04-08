@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Na3SiI2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46119901
+_cell_length_b   6.57720494
+_cell_length_c   6.33669025
+_cell_angle_alpha   66.34713455
+_cell_angle_beta   89.99946374
+_cell_angle_gamma   114.50809698
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3SiI2
+_chemical_formula_sum   'Na3 Si1 I2'
+_cell_volume   185.88428072
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.64096991  0.27698129  0.32825461  1
+  Na  Na1  1  0.00070408  -0.01056593  0.00043944  1
+  Na  Na2  1  0.35939555  0.70614345  0.67111487  1
+  Si  Si3  1  -0.00040129  0.99031832  0.50026407  1
+  I  I4  1  0.71217852  0.41272389  0.77739930  1
+  I  I5  1  0.28715323  0.56884341  0.22252772  1

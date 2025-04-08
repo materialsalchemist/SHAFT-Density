@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaBe2I3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.51215531
+_cell_length_b   8.51232458
+_cell_length_c   5.45848156
+_cell_angle_alpha   89.99981313
+_cell_angle_beta   89.99946665
+_cell_angle_gamma   120.01639964
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaBe2I3
+_chemical_formula_sum   'Na2 Be4 I6'
+_cell_volume   342.46674139
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000055  -0.00000876  0.76185157  1
+  Na  Na1  1  0.00000037  0.00000869  0.26185154  1
+  Be  Be2  1  0.66666389  0.33333457  0.31553827  1
+  Be  Be3  1  0.33333807  0.66666629  0.81553798  1
+  Be  Be4  1  0.33333333  0.66666596  0.21374162  1
+  Be  Be5  1  0.66666477  0.33333327  0.71374191  1
+  I  I6  1  0.39481655  0.11912959  0.01337061  1
+  I  I7  1  0.88081657  0.27574746  0.01336209  1
+  I  I8  1  0.72430935  0.60516828  0.01336898  1
+  I  I9  1  0.27569067  0.39483174  0.51336904  1
+  I  I10  1  0.11918342  0.72425248  0.51336336  1
+  I  I11  1  0.60518356  0.88087044  0.51336870  1

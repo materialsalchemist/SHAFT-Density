@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2BrCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38040676
+_cell_length_b   6.14681352
+_cell_length_c   9.58389351
+_cell_angle_alpha   89.99997888
+_cell_angle_beta   89.99999997
+_cell_angle_gamma   89.99995081
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2BrCl
+_chemical_formula_sum   'Li8 Br4 Cl4'
+_cell_volume   316.96194792
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000015  0.54330964  0.63095451  1
+  Li  Li1  1  -0.00000159  0.89931476  0.37709701  1
+  Li  Li2  1  0.50000010  0.04331037  0.63095504  1
+  Li  Li3  1  0.49999812  0.39931503  0.37709797  1
+  Li  Li4  1  -0.00000013  0.45669087  0.13095440  1
+  Li  Li5  1  0.00000158  0.10068344  0.87709668  1
+  Li  Li6  1  0.49999989  0.95669044  0.13095505  1
+  Li  Li7  1  0.50000180  0.60068421  0.87709773  1
+  Br  Br8  1  -0.00000003  0.02038671  0.13047479  1
+  Br  Br9  1  0.49999998  0.52038682  0.13047584  1
+  Br  Br10  1  0.00000003  -0.02038538  0.63047409  1
+  Br  Br11  1  0.50000006  0.47961484  0.63047519  1
+  Cl  Cl12  1  0.50000032  0.00847421  0.37982822  1
+  Cl  Cl13  1  0.00000042  0.50847331  0.37982787  1
+  Cl  Cl14  1  0.49999967  -0.00847472  0.87982790  1
+  Cl  Cl15  1  -0.00000036  0.49152545  0.87982755  1

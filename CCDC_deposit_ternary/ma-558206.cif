@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2SiBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81813560
+_cell_length_b   7.81813489
+_cell_length_c   6.16145541
+_cell_angle_alpha   90.00031728
+_cell_angle_beta   89.99969478
+_cell_angle_gamma   120.02113249
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SiBr3
+_chemical_formula_sum   'Na4 Si2 Br6'
+_cell_volume   326.08271579
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33332222  0.66667043  0.50155496  1
+  Na  Na1  1  0.66667779  0.33332959  0.49844484  1
+  Na  Na2  1  0.33332948  0.66667772  0.00155516  1
+  Na  Na3  1  0.66667051  0.33332226  -0.00155493  1
+  Si  Si4  1  -0.00000000  0.00000000  0.50000011  1
+  Si  Si5  1  -0.00000000  -0.00000000  -0.00000020  1
+  Br  Br6  1  0.35011484  -0.00004268  0.75000091  1
+  Br  Br7  1  0.64988515  0.00004270  0.24999912  1
+  Br  Br8  1  0.35007725  0.35007726  0.24999988  1
+  Br  Br9  1  0.64992274  0.64992273  0.75000015  1
+  Br  Br10  1  0.00004274  0.64988531  0.25000086  1
+  Br  Br11  1  -0.00004273  0.35011467  0.74999915  1

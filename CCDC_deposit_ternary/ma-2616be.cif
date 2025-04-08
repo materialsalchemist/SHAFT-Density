@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2Cl5O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60051546
+_cell_length_b   5.90236431
+_cell_length_c   12.04456368
+_cell_angle_alpha   89.51049408
+_cell_angle_beta   90.74929150
+_cell_angle_gamma   89.59465138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Cl5O
+_chemical_formula_sum   'Li4 Cl10 O2'
+_cell_volume   327.00874940
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.05488874  -0.02095290  0.53192673  1
+  Li  Li1  1  0.55306159  0.50245748  0.49600146  1
+  Li  Li2  1  0.04080056  0.60080223  -0.04150476  1
+  Li  Li3  1  0.48203791  -0.08094145  0.05371607  1
+  Cl  Cl4  1  0.04974298  0.61352151  0.44765577  1
+  Cl  Cl5  1  0.55349586  0.11187140  0.52545460  1
+  Cl  Cl6  1  0.06312746  0.68762072  0.72316728  1
+  Cl  Cl7  1  0.79486616  0.29482927  0.15731886  1
+  Cl  Cl8  1  0.47838807  0.11756871  0.86684152  1
+  Cl  Cl9  1  0.56393733  0.62452641  0.70505271  1
+  Cl  Cl10  1  0.29511145  0.30693971  0.12797881  1
+  Cl  Cl11  1  0.53675837  0.82100542  0.26257926  1
+  Cl  Cl12  1  0.97730424  0.18557098  0.86869185  1
+  Cl  Cl13  1  0.03515244  0.76833803  0.22200094  1
+  O  O14  1  0.48543833  0.64686662  -0.04041893  1
+  O  O15  1  0.03588852  -0.18002415  0.09353784  1

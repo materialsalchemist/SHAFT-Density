@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na2BrN5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70999227
+_cell_length_b   6.02486150
+_cell_length_c   9.04310170
+_cell_angle_alpha   91.55342679
+_cell_angle_beta   89.89636461
+_cell_angle_gamma   90.04164006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2BrN5
+_chemical_formula_sum   'Na4 Br2 N10'
+_cell_volume   310.98507912
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.48955492  0.03259444  0.67603265  1
+  Na  Na1  1  -0.00185232  0.53191380  0.68785732  1
+  Na  Na2  1  0.48016715  -0.34536988  -0.00693081  1
+  Na  Na3  1  0.02376007  0.15061290  -0.00044012  1
+  Br  Br4  1  -0.02198399  -0.34258058  0.01238050  1
+  Br  Br5  1  0.52433894  0.15785506  0.00062819  1
+  N  N6  1  0.50874813  0.51683686  0.64998645  1
+  N  N7  1  0.62047909  0.38231024  0.58414044  1
+  N  N8  1  0.39804392  0.65363953  0.71731425  1
+  N  N9  1  -0.01823264  0.01592762  0.65791428  1
+  N  N10  1  -0.12774742  0.87870529  0.59268913  1
+  N  N11  1  0.09229577  0.15393032  0.72407639  1
+  N  N12  1  0.05206791  0.25075578  0.28878243  1
+  N  N13  1  0.46197723  0.75966694  0.28265870  1
+  N  N14  1  0.08565447  0.34690940  0.39352927  1
+  N  N15  1  0.43272877  0.85629228  0.38783412  1

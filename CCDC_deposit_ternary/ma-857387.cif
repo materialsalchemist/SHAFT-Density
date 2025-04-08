@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaI2N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64064387
+_cell_length_b   5.63478069
+_cell_length_c   4.34208783
+_cell_angle_alpha   79.34439999
+_cell_angle_beta   100.62581949
+_cell_angle_gamma   105.24471021
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaI2N
+_chemical_formula_sum   'Na1 I2 N1'
+_cell_volume   129.50715909
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.04421287  0.04393458  -0.04723432  1
+  I  I1  1  0.33338100  0.66656926  0.75709580  1
+  I  I2  1  0.67620685  0.32417001  0.27148957  1
+  N  N3  1  0.11795835  0.88199282  0.51864895  1

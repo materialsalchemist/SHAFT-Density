@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_K2I2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89440321
+_cell_length_b   6.22656792
+_cell_length_c   4.48983130
+_cell_angle_alpha   89.77782432
+_cell_angle_beta   90.18490482
+_cell_angle_gamma   86.31969186
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2I2O3
+_chemical_formula_sum   'K2 I2 O3'
+_cell_volume   164.44328334
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.46666297  0.57119612  0.49693330  1
+  K  K1  1  0.04789473  -0.00856408  0.49743819  1
+  I  I2  1  -0.04087818  0.48394647  0.99047532  1
+  I  I3  1  0.55974337  0.07845381  0.00140711  1
+  O  O4  1  0.54018698  0.00911938  0.43888509  1
+  O  O5  1  -0.03951363  0.43839024  0.56677776  1
+  O  O6  1  0.17423710  0.69829139  0.00808323  1

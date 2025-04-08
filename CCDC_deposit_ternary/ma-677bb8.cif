@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2BeBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22332570
+_cell_length_b   10.18695667
+_cell_length_c   5.36470566
+_cell_angle_alpha   90.58100214
+_cell_angle_beta   89.99999947
+_cell_angle_gamma   90.00027581
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2BeBr2
+_chemical_formula_sum   'Na4 Be2 Br4'
+_cell_volume   340.08741415
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000002  0.25606765  0.72594484  1
+  Na  Na1  1  0.00000308  0.63900421  0.21600382  1
+  Na  Na2  1  0.49999999  0.75606711  0.72594490  1
+  Na  Na3  1  0.50000335  0.13900417  0.21600392  1
+  Be  Be4  1  0.49999968  0.47776914  0.73567607  1
+  Be  Be5  1  -0.00000034  -0.02223268  0.73567565  1
+  Br  Br6  1  -0.00000054  0.76366674  0.72033953  1
+  Br  Br7  1  -0.00000237  0.36349423  0.22703589  1
+  Br  Br8  1  0.49999940  0.26366500  0.72033952  1
+  Br  Br9  1  0.49999776  0.86349444  0.22703586  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiBr5O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49387664
+_cell_length_b   6.00685018
+_cell_length_c   4.78656646
+_cell_angle_alpha   88.22136793
+_cell_angle_beta   97.41884006
+_cell_angle_gamma   91.93364636
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiBr5O3
+_chemical_formula_sum   'Li1 Br5 O3'
+_cell_volume   241.94750373
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  -0.00319172  0.46337278  0.63734003  1
+  Br  Br1  1  0.55575273  0.49070757  0.04349859  1
+  Br  Br2  1  0.26185547  0.49479454  0.04280735  1
+  Br  Br3  1  0.88094031  0.52148905  0.10752934  1
+  Br  Br4  1  0.14165820  0.00879953  0.53552196  1
+  Br  Br5  1  0.77475583  0.02381171  0.61258790  1
+  O  O6  1  0.40014448  -0.01586528  0.29519219  1
+  O  O7  1  0.50369826  -0.12287077  0.44285048  1
+  O  O8  1  -0.01561357  0.13576087  -0.27925756  1

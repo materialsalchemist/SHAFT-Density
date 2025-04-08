@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2NaBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.39097675
+_cell_length_b   4.02677871
+_cell_length_c   11.79340881
+_cell_angle_alpha   89.99991136
+_cell_angle_beta   90.00170060
+_cell_angle_gamma   89.99980768
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaBr3
+_chemical_formula_sum   'K4 Na2 Br6'
+_cell_volume   398.48284980
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25001487  0.00017117  0.88698445  1
+  K  K1  1  0.75001395  -0.00017332  0.88698482  1
+  K  K2  1  0.74998830  -0.01140304  0.22719827  1
+  K  K3  1  0.24998592  0.01140743  0.22719852  1
+  Na  Na4  1  0.00000249  -0.00001705  0.55652190  1
+  Na  Na5  1  0.50000269  0.00001440  0.55652379  1
+  Br  Br6  1  -0.00001741  0.50000253  0.08603339  1
+  Br  Br7  1  0.49998364  0.49999927  0.08603267  1
+  Br  Br8  1  0.75000373  0.47990016  0.44810332  1
+  Br  Br9  1  0.00000976  0.49998869  0.74659779  1
+  Br  Br10  1  0.25000282  0.52010116  0.44810346  1
+  Br  Br11  1  0.50000923  0.50000857  0.74659717  1

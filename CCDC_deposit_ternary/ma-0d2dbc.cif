@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li6CI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58834277
+_cell_length_b   6.58835287
+_cell_length_c   6.45243683
+_cell_angle_alpha   112.79224117
+_cell_angle_beta   67.20782848
+_cell_angle_gamma   117.10390654
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6CI3
+_chemical_formula_sum   'Li6 C1 I3'
+_cell_volume   222.13229264
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.13321485  0.76665051  0.19771529  1
+  Li  Li1  1  0.23721769  0.10480378  0.63530713  1
+  Li  Li2  1  0.66300150  0.79494572  0.36435763  1
+  Li  Li3  1  0.79494567  0.66300040  0.63564142  1
+  Li  Li4  1  0.76664996  0.13321418  0.80228424  1
+  Li  Li5  1  0.10480406  0.23721907  0.36469358  1
+  C  C6  1  -0.04995696  -0.04995642  0.50000045  1
+  I  I7  1  0.69797491  0.20213639  0.28294645  1
+  I  I8  1  0.45001198  0.45001169  0.00000012  1
+  I  I9  1  0.20213634  0.69797468  0.71705368  1

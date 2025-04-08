@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2SiBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.96600154
+_cell_length_b   9.96404211
+_cell_length_c   8.73921250
+_cell_angle_alpha   78.21272815
+_cell_angle_beta   101.80029265
+_cell_angle_gamma   147.87193307
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SiBr3
+_chemical_formula_sum   'K4 Si2 Br6'
+_cell_volume   450.95729986
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.21190175  0.46318387  0.83538050  1
+  K  K1  1  0.68227291  0.34283586  0.82251232  1
+  K  K2  1  0.65734147  0.31779559  0.32235064  1
+  K  K3  1  0.53635589  0.78793655  0.33557948  1
+  Si  Si4  1  -0.07605356  -0.10695904  0.91036518  1
+  Si  Si5  1  0.10691732  0.07603146  0.41060838  1
+  Br  Br6  1  0.09581714  0.82487906  0.53833724  1
+  Br  Br7  1  0.39391874  0.38965361  0.60841828  1
+  Br  Br8  1  0.66244740  0.05658642  0.63888224  1
+  Br  Br9  1  0.17520211  -0.09573803  0.03837488  1
+  Br  Br10  1  0.61086431  0.60668692  0.10831706  1
+  Br  Br11  1  -0.05698549  0.33710772  0.13865017  1

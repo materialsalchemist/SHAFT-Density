@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaBr2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59982957
+_cell_length_b   9.08280095
+_cell_length_c   8.04042609
+_cell_angle_alpha   90.05098000
+_cell_angle_beta   89.93901631
+_cell_angle_gamma   100.90068228
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaBr2Cl
+_chemical_formula_sum   'Na4 Br8 Cl4'
+_cell_volume   544.99760408
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.48676962  0.66940231  0.20825342  1
+  Na  Na1  1  0.51320165  0.33057520  0.79169729  1
+  Na  Na2  1  -0.01348153  0.16980959  0.29258458  1
+  Na  Na3  1  0.01350236  -0.16977353  0.70739762  1
+  Br  Br4  1  0.22563268  0.63546249  0.51394399  1
+  Br  Br5  1  0.77432185  0.36452021  0.48606992  1
+  Br  Br6  1  0.27507027  0.36470170  0.09314406  1
+  Br  Br7  1  0.72494315  0.63529328  0.90691904  1
+  Br  Br8  1  0.27381170  0.86273821  0.01347231  1
+  Br  Br9  1  0.72636089  0.13724202  0.98650989  1
+  Br  Br10  1  0.77460489  0.86557579  0.40706052  1
+  Br  Br11  1  0.22528257  0.13443973  0.59318570  1
+  Cl  Cl12  1  0.46772599  0.63535186  0.70526149  1
+  Cl  Cl13  1  0.53231340  0.36466542  0.29468128  1
+  Cl  Cl14  1  -0.03216163  0.13548644  0.79487322  1
+  Cl  Cl15  1  0.03210213  0.86450928  0.20494567  1

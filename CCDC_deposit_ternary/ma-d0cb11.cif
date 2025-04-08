@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaS2N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33043350
+_cell_length_b   5.32739871
+_cell_length_c   12.35185511
+_cell_angle_alpha   89.95504834
+_cell_angle_beta   90.18028357
+_cell_angle_gamma   86.87612315
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaS2N
+_chemical_formula_sum   'Na4 S8 N4'
+_cell_volume   350.23677828
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49285449  0.46453467  -0.01204761  1
+  Na  Na1  1  0.00630566  0.03715198  -0.01093954  1
+  Na  Na2  1  0.03773731  0.00177911  0.48949400  1
+  Na  Na3  1  0.46492796  0.48705277  0.48691264  1
+  S  S4  1  0.07420724  -0.16623326  0.20851741  1
+  S  S5  1  -0.10228128  0.55585756  0.33071929  1
+  S  S6  1  0.60406312  -0.05728862  0.33184547  1
+  S  S7  1  0.42453805  0.67591549  0.20544098  1
+  S  S8  1  -0.05740752  0.60475933  0.83182148  1
+  S  S9  1  0.67091738  0.42697314  0.70668185  1
+  S  S10  1  0.55606451  -0.10167098  0.83122719  1
+  S  S11  1  -0.17125386  0.07628247  0.70716837  1
+  N  N12  1  -0.03238421  0.48537992  0.94357419  1
+  N  N13  1  0.53102476  0.01717911  0.94290361  1
+  N  N14  1  0.01625217  0.52728028  0.44257696  1
+  N  N15  1  0.48443421  -0.03495299  0.44334960  1

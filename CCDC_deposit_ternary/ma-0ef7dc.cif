@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K3BeI10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.73623948
+_cell_length_b   9.73623587
+_cell_length_c   6.45639814
+_cell_angle_alpha   89.99920442
+_cell_angle_beta   90.00795366
+_cell_angle_gamma   90.00001698
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3BeI10
+_chemical_formula_sum   'K3 Be1 I10'
+_cell_volume   612.02989164
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  -0.00000073  0.50000031  0.49867973  1
+  K  K1  1  0.50000113  -0.00000052  0.50132071  1
+  K  K2  1  0.50000017  0.50000061  -0.00000066  1
+  Be  Be3  1  0.49999883  0.49999802  0.49999820  1
+  I  I4  1  -0.00000051  -0.00000000  0.50000008  1
+  I  I5  1  -0.00000007  0.00000015  0.00000013  1
+  I  I6  1  0.71098708  0.71086923  0.74650108  1
+  I  I7  1  0.28913392  0.28901150  0.25349947  1
+  I  I8  1  0.71098532  0.28913281  0.74649830  1
+  I  I9  1  0.71088254  0.28899932  0.25347826  1
+  I  I10  1  0.28913469  0.71098711  0.25350234  1
+  I  I11  1  0.28899696  0.71088133  0.74652231  1
+  I  I12  1  0.71088181  0.71099942  0.25348083  1
+  I  I13  1  0.28899886  0.28912071  0.74651922  1

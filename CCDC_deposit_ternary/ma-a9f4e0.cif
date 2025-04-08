@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaI2Cl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.43699589
+_cell_length_b   10.17684994
+_cell_length_c   8.22170828
+_cell_angle_alpha   87.27365156
+_cell_angle_beta   58.65905846
+_cell_angle_gamma   86.80477476
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaI2Cl5
+_chemical_formula_sum   'Na2 I4 Cl10'
+_cell_volume   673.18244429
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.59188972  0.41373826  0.34359097  1
+  Na  Na1  1  0.63151089  0.41325347  0.82411620  1
+  I  I2  1  0.26371434  0.23559266  0.37412727  1
+  I  I3  1  0.18967310  0.46635554  -0.06793143  1
+  I  I4  1  -0.20568705  0.04527489  0.58201875  1
+  I  I5  1  0.06742366  -0.23845839  -0.01457218  1
+  Cl  Cl6  1  -0.06686237  0.36662308  0.19823278  1
+  Cl  Cl7  1  0.01903455  0.88787948  0.52494069  1
+  Cl  Cl8  1  0.63945536  0.88402469  0.54271722  1
+  Cl  Cl9  1  0.46679437  0.56805250  0.66592657  1
+  Cl  Cl10  1  0.56415555  0.22538407  0.63881579  1
+  Cl  Cl11  1  -0.05495058  0.24616790  0.65098978  1
+  Cl  Cl12  1  -0.00559864  -0.00747803  0.01278316  1
+  Cl  Cl13  1  0.79271062  0.67777685  0.04593384  1
+  Cl  Cl14  1  0.56690678  0.22269745  0.12375694  1
+  Cl  Cl15  1  0.53982969  0.59311558  0.10836731  1
