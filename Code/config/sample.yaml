@@ -1,0 +1,23 @@
+expname: sample
+# metadata specialised for each experiment
+core:
+  version: 0.0.1
+  tags:
+    - ${now:%Y-%m-%d}
+
+hydra:
+  run:
+    dir: /home/minhtrin/Code/Generative/SHAFT/hydra/singlerun/2024-09-02/SHAFT_grid_ternary_block6_freeze_sgl_merge_2024-09-02-21-22-41
+  sweep:
+    dir: ${oc.env:HYDRA_JOBS}/multirun/${now:%Y-%m-%d-%H-%M-%S}/${expname}/
+    subdir: ${hydra.job.num}_${hydra.job.id}
+
+  job:
+    env_set:
+      WANDB_START_METHOD: thread
+      WANDB_DIR: ${oc.env:WABDB_DIR}
+
+defaults:
+  - train: default
+  - SHAFT: sample_config
+
